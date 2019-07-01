@@ -1,7 +1,7 @@
 class Settings:
-    bf_name = "宝宝"
-    bf_sentence = "宝宝我爱你"
-    check_internal = 5
+    bf_name = "夏宏宇"
+    bf_sentence = "辣鸡"
+    check_internal = 3
     is_jump_out = True
     is_sent_to_file_receiver = False
     is_inform_brothers = False
